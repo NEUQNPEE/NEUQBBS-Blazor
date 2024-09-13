@@ -1,0 +1,10 @@
+.sonarqube/
+**/.sonarqube/
+coverage.xml
+**/obj/
+**/bin/
+**/Logs/
+**/Logs/
+**/Logs/
+doc/Doxyfile
+WebApiDemo.Entities/Migrations/*
